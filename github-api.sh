@@ -2,8 +2,11 @@
 
 
 #file Location changed
+<<<<<<< HEAD
 
 #pushing the code from main branch
+=======
+>>>>>>> 76d8becb98916f54f8138b94184513f048598c6e
 
 #git status
 
